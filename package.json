@@ -1,8 +1,9 @@
 {
-  "name": "pouchdb-types",
+  "name": "@types/pouchdb",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Devagamster/PouchDB-Types.git"
   },
-  "author": "",
+  "author": "keith@the-simmons.net",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Devagamster/PouchDB-Types/issues"
